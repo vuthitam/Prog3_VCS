@@ -5,7 +5,7 @@
 
 run with root
 
-   sudo ./sshtrojan1
+    sudo ./sshtrojan1
 
 ### + with file sshtrojan2
     g++ -o sshtrojan2 sshtrojan2.cpp -lpthread
